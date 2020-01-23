@@ -1,4 +1,4 @@
-__version__ = '0.1.0'
+__version__ = '0.3.0'
 
 from bs4 import BeautifulSoup
 import urllib.parse as urlparse
